@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "titulo": "Mi primera tarea",
+    "descripcion": "Descripción detallada de la tarea con al menos 20 caracteres.",
+    "completada": false,
+    "fecha_creacion": "2024-11-03T02:53:36.003Z"
+  },
+  {
+    "id": 2,
+    "titulo": "Mi primera tarea",
+    "descripcion": "Descripción detallada de la tarea con al menos 20 caracteres.",
+    "completada": false,
+    "fecha_creacion": "2024-11-03T02:54:25.507Z"
+  }
+]

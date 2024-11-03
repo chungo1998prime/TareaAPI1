@@ -1,0 +1,23 @@
+
+
+POST http://localhost:3000/tareas
+Content-Type: application/json
+
+{
+  "titulo": "Mi primera tarea",
+  "descripcion": "Descripción detallada de la tarea con al menos 20 caracteres."
+}
+###
+GET http://localhost:3000/tareas/1
+###
+PUT http://localhost:3000/tareas/1
+Content-Type: application/json
+
+{
+  "titulo": "Tarea actualizada",
+  "descripcion": "Nueva descripción detallada con al menos 20 caracteres.",
+  "completada": true
+}
+###
+DELETE http://localhost:3000/tareas/1
+
